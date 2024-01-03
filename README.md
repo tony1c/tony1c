@@ -16,7 +16,8 @@ I enjoy working on various projects and am currently diving into the world of Re
 
 [![ongoing-interests](https://skillicons.dev/icons?i=react)](#)
 
-- **React:** I am always eager to learn new things and stay updated with the latest technologies.  Currently, my focus is on mastering React.
+- **React:** I am always eager to learn new things and stay updated with the latest technologies.  
+Currently, my focus is on mastering React.
 ---
 
 ### Certifications
