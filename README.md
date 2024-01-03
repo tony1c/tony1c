@@ -6,12 +6,10 @@ I enjoy working on various projects and am currently diving into the world of Re
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nodejs)](https://skillicons.dev)
-
 ---
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim)](https://skillicons.dev)
-
 ---
 
 ### Learnings
