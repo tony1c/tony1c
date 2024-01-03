@@ -30,8 +30,8 @@ I have successfully completed the following Udemy courses with certifications:
 ---
 
 ### Languages
-- Italian (Native)
 - English (Fluent)
+- Italian (Native)
 
 ---
 
