@@ -35,5 +35,5 @@ I have successfully completed the following Udemy courses with certifications:
 ---
 
 ### Connect with Me
-I'm open to collaborations and discussions. Feel free to connect with me via email: [antoniomario.cavuto@gmail.com](mailto:antoniomario.cavuto@gmail.com).
+Feel free to connect with me via email: [antoniomario.cavuto@gmail.com](mailto:antoniomario.cavuto@gmail.com).  
 Let's build amazing things together! 🚀
