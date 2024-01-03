@@ -12,7 +12,7 @@ I enjoy working on various projects and am currently diving into the world of Re
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim)](https://skillicons.dev)
 ---
 
-### Learnings
+### Present Interests
 
 [![ongoing-interests](https://skillicons.dev/icons?i=react)](#)
 
