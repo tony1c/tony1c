@@ -9,7 +9,7 @@ I enjoy working on various projects and am currently diving into the world of Re
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim)](https://skillicons.dev)
 ---
 ### Learnings
-[![ongoing-interests](https://skillicons.dev/icons?i=react)](https://skillicons.dev)(#)
+[![ongoing-interests](https://skillicons.dev/icons?i=react)](https://skillicons.dev) (#)
 I am always eager to learn new things and stay updated with the latest technologies.
 Currently, my focus is on mastering React.
 ---
