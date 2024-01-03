@@ -11,11 +11,6 @@ I enjoy working on various projects and am currently diving into the world of Re
 - **Tools:** Git, VS Code, NeoVim.
 ---
 
-```### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim)](https://skillicons.dev)
----
-```
-
 ### Present Interests
 
 [![ongoing-interests](https://skillicons.dev/icons?i=react)](#)
