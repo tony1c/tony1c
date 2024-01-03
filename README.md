@@ -1,5 +1,5 @@
 ## Antonio Mario Cavuto - Frontend Web Developer
-Hello 👋🏼, I'm Antonio Mario Cavuto, a passionate solo frontend web developer based in 📍 Pescara, Italy.  
+Hello 👋🏼, I'm Antonio, a passionate solo frontend web developer based in 📍 Pescara, Italy.  
 I enjoy working on various projects and am currently diving into the world of React to enhance my skills.
 
 ---
