@@ -25,7 +25,7 @@ I have successfully completed the following Udemy courses with certifications:
 2. [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/certificate/UC-cb1585c0-1bf2-4d53-8b28-4697d508e305/)
 3. [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/certificate/UC-b98e3e9d-aeea-40c2-9c25-bba9cb7696f7/)
 #### There, some more awesome courses...
-+ [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
++ [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) by [@ThePrimeagen](https://twitter.com/ThePrimeagen)
 ---
 
 ### Languages
