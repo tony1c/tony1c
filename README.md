@@ -1,5 +1,5 @@
 ## Antonio Mario Cavuto - Frontend Web Developer
-Hello 👋🏼, I'm Antonio Mario Cavuto, a passionate solo frontend web developer based in 📍 Pescara, Italy.
+Hello 👋🏼, I'm Antonio Mario Cavuto, a passionate solo frontend web developer based in 📍 Pescara, Italy.  
 I enjoy working on various projects and am currently diving into the world of React to enhance my skills.
 
 ---
@@ -17,7 +17,6 @@ I enjoy working on various projects and am currently diving into the world of Re
 [![ongoing-interests](https://skillicons.dev/icons?i=react)](#)
 
 - **React:** I am always eager to learn new things and stay updated with the latest technologies. Currently, my focus is on mastering React.
-
 ---
 
 ### Certifications
@@ -27,7 +26,6 @@ I have successfully completed the following Udemy courses with certifications:
 3. [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/certificate/UC-b98e3e9d-aeea-40c2-9c25-bba9cb7696f7/)
 #### There, some more awesome courses...
 + [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
-
 ---
 
 ### Languages
