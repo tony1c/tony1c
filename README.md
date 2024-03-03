@@ -6,7 +6,7 @@ I enjoy working on various projects and I'm currently diving into the world of R
 
 ### Skills
 [![interests](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs)](https://skillicons.dev)
-- **Front-End:** HTML, CSS, JavaScript, Vue.js.
+- **Front-End:** HTML, CSS, JavaScript, ReactJS.
 - **Back-End:** Node.js.
 - **Tools:** Git, VS Code, NeoVim.
 ---
