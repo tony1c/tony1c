@@ -5,19 +5,20 @@ I enjoy working on various projects and I'm currently mastering React to enhance
 ---
 
 ### Skills
-[![interests](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs)](https://skillicons.dev)
-- **Front-End:** HTML, CSS, JavaScript, ReactJS.
+[![interests](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs)](https://skillicons.dev)
+- **Front-End:** HTML, CSS, JavaScript, TypeScript, ReactJS.
 - **Back-End:** Node.js.
 - **Tools:** Git, VS Code, NeoVim.
 ---
 
+<!--
 ### Present Interests
-
 [![ongoing-interests](https://skillicons.dev/icons?i=react)](#)
 
 - **React:** I am always eager to learn new things and stay updated with the latest technologies.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, my focus is on mastering React.
 ---
+--->
 
 ### Certifications
 I have successfully completed the following courses with certifications:
