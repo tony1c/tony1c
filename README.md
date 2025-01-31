@@ -1,12 +1,12 @@
 ## Antonio Mario Cavuto - Frontend Web Developer
 Hello 👋🏼, I'm Antonio, a passionate solo frontend web developer based in 📍 Pescara, Italy.  
-I enjoy working on various projects and I'm currently mastering React to enhance my skills.
+<!--I enjoy working on various projects and I'm currently mastering React to enhance my skills.--->
 
 ---
 
 ### Skills
 [![interests](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs)](https://skillicons.dev)
-- **Front-End:** HTML, CSS, JavaScript, TypeScript, ReactJS.
+- **Front-End:** HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS.
 - **Back-End:** Node.js.
 - **Tools:** Git, VS Code, NeoVim.
 ---
